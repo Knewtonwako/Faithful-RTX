@@ -22,7 +22,7 @@ open either the x32 or x64 folder and open the manifest with a text editor of yo
 
 
 
-make sure you put this after modules.
+make sure you put this after Modules  (IT MUST HAVE THE COMMA BEFORE "capabilities" TO ENSURE IT WORKS!!!!)
 
 next copy the textures into the block folder.
 
