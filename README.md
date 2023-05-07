@@ -12,10 +12,16 @@ Locate the path of minecraft resource packs: C:\Users\You\AppData\Local\Packages
 open either the x32 or x64 folder and open the manifest with a text editor of your choice, at the end of the file add
 
 
-   ,  
+
+
+
+,  
      "capabilities" : [
        "raytraced"
      ]
+
+
+
 
 make sure you put this after ].
 
