@@ -13,9 +13,8 @@ open either the x32 or x64 folder and open the manifest with a text editor of yo
 
 
 
-
-
-,  
+,
+  
      "capabilities" : [
        "raytraced"
      ]
@@ -23,7 +22,7 @@ open either the x32 or x64 folder and open the manifest with a text editor of yo
 
 
 
-make sure you put this after ].
+make sure you put this after modules.
 
 next copy the textures into the block folder.
 
